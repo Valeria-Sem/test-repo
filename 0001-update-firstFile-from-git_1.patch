@@ -1,0 +1,24 @@
+From 2beb78385fd892d060f1d75224d937ac1eeb1b26 Mon Sep 17 00:00:00 2001
+From: Valeria-Sem <lerasemenenya@gmail.com>
+Date: Wed, 29 Sep 2021 18:16:37 +0300
+Subject: [PATCH 1/2] update firstFile from git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index b6dacd3..e419d14 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ line 5
+ line 6
+ line 7
+ line 8
+-line 9
+-line 10
++line 9  update
++line 10 update
+-- 
+2.16.0.windows.2
+
