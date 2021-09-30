@@ -1,0 +1,10 @@
+lin1 1	update
+line 2	update
+line 3
+line 4  update
+line 5  update
+line 6
+line 7
+line 8
+line 9
+line 10
