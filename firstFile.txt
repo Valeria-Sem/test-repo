@@ -1,5 +1,5 @@
-lin1 1	update
-line 2	update
+line 1	update  git_1 folder2
+line 2	update  git_1 folder2
 line 3
 line 4  update
 line 5  update
